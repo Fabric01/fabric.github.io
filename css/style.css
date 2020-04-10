@@ -269,6 +269,17 @@ hr {
   letter-spacing: 3px;
 }
 
+@media (max-width:670px) {
+#headerwrap h1 {
+  margin-top: 80px;
+  color: #fff;
+  font-size: 140px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-align: center;
+}	
+}
+
 #headerwrap h2 {
   color: #fff;
   font-size: 50px;
