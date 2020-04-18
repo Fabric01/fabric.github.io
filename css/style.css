@@ -300,6 +300,12 @@ hr {
   letter-spacing: 3px;
   text-align: center;
 }	
+  
+#headerwrap h2 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 100;
+  letter-spacing: 2px;
 }
 
 #headerwrap h2 {
