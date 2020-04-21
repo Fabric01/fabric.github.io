@@ -27,6 +27,10 @@ height: auto;
 }
 
 @media (max-width: 670px) {
+  
+.br-sp{
+  display: block;
+  }
 
 h2 {
 font-size : 75% ;
