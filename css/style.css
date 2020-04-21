@@ -27,7 +27,16 @@ height: auto;
 }
 
 @media (max-width: 670px) {
-  
+
+#headerwrap h1 {
+  margin-top: 0px;
+  color: #fff;
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-align: center;
+}	 
+ 
 .br-sp{
   display: block;
   }
@@ -293,26 +302,6 @@ hr {
   letter-spacing: 3px;
   text-align: center;
   max-width: 100%;
-}
-
-@media (max-width:670px) {
-#headerwrap h1 {
-  margin-top: 0px;
-  color: #fff;
-  font-size: 80px;
-  font-weight: 700;
-  letter-spacing: 3px;
-  text-align: center;
-}	
-  
-#headerwrap h2 {
-  color: #fff;
-  font-size: 20px;
-  font-weight: 100;
-  letter-spacing: 2px;
-  float: left;
-}
-
 }
 
 #headerwrap h2 {
