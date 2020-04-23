@@ -28,7 +28,7 @@ height: auto;
 
 @media (max-width: 670px) {
 
-h1 {
+.header-wrap h1 {
 font-size : 50% ;
 margin : 1em 0 0.8em 0 ; }
  
